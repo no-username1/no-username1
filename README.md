@@ -1,4 +1,4 @@
 - 👋 Hello, I’m Duothescripter
-- 👀 I’m interested in learning more Python
+- 👀 I’m interested in GitHub, as i am not fammiliar with the features
 - 🌱 I’m currently learning Python
 - 🇳🇴 From Norway (yes brrrr) 😶‍🌫️
