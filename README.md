@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Duothescripter
+- 👋 Hello, I’m Duothescripter
 - 👀 I’m interested in learning more Python
 - 🌱 I’m currently learning Python
+- 🇳🇴 From Norway (yes brrrr) 😶‍🌫️
