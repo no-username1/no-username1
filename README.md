@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Duothescripter
+- 👀 I’m interested in learning more Python
+- 🌱 I’m currently learning Python
